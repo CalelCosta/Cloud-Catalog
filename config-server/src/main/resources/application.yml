@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          default-label: main #nova branch do git que tomou o lugar da master
-          uri: https://github.com/FredericoPerpetuo/dio-services-config.git
+          default-label: master
+          uri: https://github.com/CalelCosta/Dio_Services_Config.git
 
 
